@@ -72,3 +72,5 @@ This project sharpened my ability to:
 - Apply sentiment analysis to product feedback and link it to campaign priorities
 
 It also gave me deeper experience working with mixed data types and refining predictive models to support business action.
+
+Presentation: https://youtu.be/GdSSm70vJn0 
