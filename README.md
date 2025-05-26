@@ -1,6 +1,6 @@
 # Turtle Games Customer Loyalty Analysis – 87% Final Grade
 
-This project was completed as part of the LSE Data Analytics Career Accelerator (Course 3). I analysed customer-level data from Turtle Games, a global game manufacturer and retailer, to uncover what drives loyalty point accumulation, how to segment customers, and how review sentiment can inform marketing. The analysis informed data-backed strategies to improve customer retention, engagement, and campaign targeting.
+This project was completed as part of the LSE Data Analytics Career Accelerator (Course 3). I analysed customer-level data from Turtle Games, a fictional global game manufacturer and retailer, to uncover what drives loyalty point accumulation, how to segment customers, and how review sentiment can inform marketing. The analysis informed data-backed strategies to improve customer retention, engagement, and campaign targeting.
 
 ---
 
