@@ -73,4 +73,58 @@ This project sharpened my ability to:
 
 It also gave me deeper experience working with mixed data types and refining predictive models to support business action.
 
-Presentation: https://youtu.be/GdSSm70vJn0 
+Presentation: https://youtu.be/GdSSm70vJn0
+
+---
+
+## 🕹️ Visual Storytelling for Insights
+
+Explore the TurtleGames dataset through these slides, highlighting key analytical insights across loyalty, segmentation, sentiment, and strategy.
+
+### 1. Analytical Approach
+
+<img src="Visuals/Visual 1.png" width="800"/>
+
+### 2. How are Loyalty Points Distributed?
+
+<img src="Visuals/Visual 2.png" width="800"/>
+
+### 3. What Influences Loyalty Points?
+
+<img src="Visuals/Visual 3.png" width="800"/>
+
+### 4. Visualising Predictors – Loyalty Points vs Key Variables
+
+<img src="Visuals/Visual 4.png" width="800"/>
+
+### 5. Visualising Loyalty Drivers with a Decision Tree
+
+<img src="Visuals/Visual 5.png" width="800"/>
+
+### 6. Predicting Loyalty Points Using Regression
+
+<img src="Visuals/Visual 6.png" width="800"/>
+
+### 7. Understanding the Top 1% of Loyalty Earners
+
+<img src="Visuals/Visual 7.png" width="800"/>
+
+### 8. Segmenting by Income & Spend (K-Means)
+
+<img src="Visuals/Visual 8.png" width="800"/>
+
+### 9. Customer Profiles & Strategy
+
+<img src="Visuals/Visual 9.png" width="800"/>
+
+### 10. Insights from Customer Reviews – Word Clouds
+
+<img src="Visuals/Visual 10.png" width="800"/>
+
+### 11. Sentiment Patterns – Review vs Summary Polarity
+
+<img src="Visuals/Visual 11.png" width="800"/>
+
+### 12. What Drives Positive and Negative Sentiment?
+
+<img src="Visuals/Visual 12.png" width="800"/>
